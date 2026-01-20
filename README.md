@@ -1,8 +1,8 @@
 This is source code used for the analysis in: 
 
-John J Marshall, Jian Xu, Nai-Hsing Yeh, Seongsik Yun, Toshihiro Nomura, John N Armstrong, Jones G Parker, Anis Contractor (2024)
+John J Marshall, Jian Xu, Nai-Hsing Yeh, Seongsik Yun, Toshihiro Nomura, John N Armstrong, Jones G Parker, Anis Contractor (2026)
 Synaptic mechanisms modulate the spatiotemporal dynamics of striatal direct pathway neurons and motor output eLife 13:RP98122 
-https://doi.org/10.7554/eLife.98122.2
+https://doi.org/10.7554/eLife.98122.3
 
 files in "SourceCode1_scaleZScoreCNMFE" are for loading, formatting and preprocessing the Ca2+ imaging data processed with the pipline here:
 https://github.com/zhoupc/CNMF_E.git
